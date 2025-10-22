@@ -1,7 +1,7 @@
 export default function Achievements() {
   return (
     <main>
-      <title>"Achievments | Jude Hosmer's Resume"</title>
+      <title>Achievments | Jude Hosmer's Resume"</title>
       <h2>Achievements</h2>
       <br/>
       <hr/>
